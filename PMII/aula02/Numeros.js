@@ -18,6 +18,3 @@
         console.log(media.toString(2)) // se colocar argumentos no toString é convertido para binário
         console.log(typeof media)
         console.log(typeof total)
-
-    
-        

@@ -24,6 +24,3 @@ console.log(escola.replace(3, 'e'))
 console.log(escola.replace(/\d/, 'e')) //regex para substituir todos os digitos numéricos dentro do texto por e
 
 console.log('Ana,Maria,Pedro'.split(','))//Conversão para array. Pode ser usado regex /,/
-
-
-
