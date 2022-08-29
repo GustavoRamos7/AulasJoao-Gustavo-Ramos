@@ -23,7 +23,7 @@ teste("oi")
 teste(6)
 function mensagem () {
 
-    
+
     console.log("oi")
 }// função simples sem parâmetros
 mensagem()
