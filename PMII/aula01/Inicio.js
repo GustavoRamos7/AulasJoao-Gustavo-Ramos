@@ -13,5 +13,5 @@ b = 400
 console.log(a,b)
 
 const c = 5 //declaração de cosntante, usar pra coisas que não tem 
-// c = 50 // não consegue retribuir valor 
+// c = 50 // não consegue retribuir valor
 console.log(c)
